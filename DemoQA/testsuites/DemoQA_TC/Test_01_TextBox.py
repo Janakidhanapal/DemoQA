@@ -1,6 +1,6 @@
 import time
-import Selenium.DemoQA.reusablefiles.ElementHandling as EH
-from Selenium.DemoQA.reusablefiles.General import *
+import DemoQA.reusablefiles.ElementHandling as EH
+from DemoQA.reusablefiles.General import *
 
 
 def test_textbox():

@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.by import By
-from Selenium.DemoQA.reusablefiles.ElementHandling import scroll_into_view
+from DemoQA.reusablefiles.ElementHandling import scroll_into_view
 
 
 def invoke_browser() -> webdriver:
