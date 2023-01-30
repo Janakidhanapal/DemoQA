@@ -1,1 +1,1 @@
-# Selenium - PyTest
+# Selenium
