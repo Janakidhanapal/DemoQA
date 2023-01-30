@@ -3,3 +3,5 @@
 DemoQA/.pytest_cache
 DemoQA/assets
 DemoQA/report.html
+
+venv
